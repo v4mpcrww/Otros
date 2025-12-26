@@ -2,13 +2,9 @@
   <img src="https://i.pinimg.com/736x/2a/8f/38/2a8f38b4dbf1193ce707ceb4a6638116.jpg">
 </p>
 
-<!-- <p align="center">
-# • • • • • • • • • • • 𝕄𝕚 𝕘𝕦í𝕒 𝕡𝕒𝕣𝕒 𝔾𝕚𝕥ℍ𝕦𝕓 • • • • • • • • • • •
-</p>-->
-<p style="text-align: center; font-size: 48px; font-weight: bold; line-height: 1.2;">
-• • • • • • • • • • • 𝕄𝕚 𝕘𝕦í𝕒 𝕡𝕒𝕣𝕒 𝔾𝕚𝕥ℍ𝕦𝕓 • • • • • • • • • • •
+<p align="center">
+# • • • • • • • • • • • • • • 𝕄𝕚 𝕘𝕦í𝕒 𝕡𝕒𝕣𝕒 𝔾𝕚𝕥ℍ𝕦𝕓 • • • • • • • • • • • • • •
 </p>
-
 
 <p align="center">
 ──────────────────── ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆ ⋆  ────────────────────
